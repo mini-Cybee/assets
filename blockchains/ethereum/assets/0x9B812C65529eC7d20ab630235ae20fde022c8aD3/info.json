@@ -3,7 +3,7 @@
     "symbol": "CBD",
     "type": "ERC20",
     "decimals": 18,
-    "description": "The CybeeDAO owns large amounts of assets that make up the future of the Cybee community by holding large amounts of assets, including NFTs, tokens and marketplace fees from Opensea, etc.",
+    "description": "The CybeeDAO owns large amounts of assets that make up the future of the Cybee community by holding large amounts of assets, including NFTs, tokens and marketplace fees from OpenSea, etc.",
     "website": "https://cybee.xyz/dao",
     "explorer": "https://etherscan.io/token/0x9B812C65529eC7d20ab630235ae20fde022c8aD3",
     "status": "active",
